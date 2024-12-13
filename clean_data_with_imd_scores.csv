@@ -57,13 +57,13 @@ Central Bedfordshire,E06000056,82.245,12.152
 Northumberland,E06000057,80.84,22.079
 "Bournemouth, Christchurch and Poole",E06000058,81.465,18.173
 Dorset,E06000059,82.85,15.735
-Buckinghamshire,E06000060,83.06,
-North Northamptonshire,E06000061,80.445,
-West Northamptonshire,E06000062,81.43,
-Cumberland,E06000063,79.43,
-Westmorland and Furness,E06000064,81.545,
-North Yorkshire,E06000065,82.15,
-Somerset,E06000066,82,
+Buckinghamshire,E06000060,83.06, 17.42
+North Northamptonshire,E06000061,80.445, 18.12
+West Northamptonshire,E06000062,81.43, 12.18
+Cumberland,E06000063,79.43, 19.64
+Westmorland and Furness,E06000064,81.545, 9.46
+North Yorkshire,E06000065,82.15, 8.32
+Somerset,E06000066,82, 13.29
 Cambridge,E07000008,82.09,14.855
 East Cambridgeshire,E07000009,83.13,11.507
 Fenland,E07000010,79.745,25.426
@@ -328,7 +328,7 @@ Fife,S12000047,78.875,
 Perth and Kinross,S12000048,80.725,
 Glasgow City,S12000049,75.925,
 North Lanarkshire,S12000050,76.8,
-Isle of Anglesey / Ynys Môn,W06000001,80.595,
+Isle of Anglesey / Ynys MÃ´n,W06000001,80.595,
 Gwynedd / Gwynedd,W06000002,81.27,
 Conwy / Conwy,W06000003,80.58,
 Denbighshire / Sir Ddinbych,W06000004,79.235,
