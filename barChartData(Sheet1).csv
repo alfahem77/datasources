@@ -1,12 +1,12 @@
-Regions,Average LE,GDP,AVG IMD
-North East,78,65.05,29.0
-North West,79,220.3,27.5
-Yorkshire and The Humber,79.5,151.79,27.1
-East Midlands,80.2,146.78,18.4
-West Midlands,80.1,181.35,20.7
-East,81.5,213.83,17.0
-London,82.4,526.52,21.1
-South East,82.9,336.2,15.4
-South West,82.7,194.03,17.1
-Wales,79.9,85.41,19.6
-Scotland,77.6,186.85,22.5
+Regions,Average LE,GDP (£ billions),AVG IMD,Deprivation Level
+North East,78,65.05,29,Deprived
+North West,79,220.3,27.5,Deprived
+Yorkshire and The Humber,79.5,151.79,27.1,Deprived
+East Midlands,80.2,146.78,18.4,Low priotity
+West Midlands,80.1,181.35,20.7,Moderate Priority
+East,81.5,213.83,17,Low priotity
+London,82.4,526.52,21.1,Moderate Priority
+South East,82.9,336.2,15.4,Low priotity
+South West,82.7,194.03,17.1,Low priotity
+Wales,79.9,85.41,19.6,Low priotity
+Scotland,77.6,186.85,22.5,Moderate Priority
